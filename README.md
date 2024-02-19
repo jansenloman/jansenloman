@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**jansenloman/jansenloman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jansen, currently a student pursuing a degree in Computer Science at Mikroskil University. 📚 I'm passionate about technology and always eager to learn and explore new things.
 
-Here are some ideas to get you started:
+## 🌱 I'm Currently Learning
+- Teknik Informatika (Computer Science)
+- Cloud Computing with Bangkit Academy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- HTML, CSS and Javascript
+- ReactJS
+- Flutter
+- Python
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jansenloman/)
+
+<!-- Feel free to explore my repositories and connect with me. Let's learn and grow together! 🚀-->
