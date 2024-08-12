@@ -11,6 +11,7 @@ I'm Jansen, currently a student pursuing a degree in Computer Science at Mikrosk
 - ReactJS
 - Flutter
 - Python
+- ReactJS
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jansenloman/)
